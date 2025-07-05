@@ -1,2 +1,3 @@
-# alien-trap-site
-Alien Trap Clothing – Urban streetwear from another dimension
+# Alien Trap Clothing
+
+Urban streetwear from another dimension.
